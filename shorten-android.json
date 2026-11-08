@@ -1,0 +1,90 @@
+{
+    "schema":  1,
+    "version":  "0.1.0",
+    "released_at":  "2026-11-08T10:28:26Z",
+    "download_url":  "https://github.com/RiftWorksApps/shorten-releases/releases/latest/download/Shorten.apk",
+    "title":  "Shorten for Android",
+    "description":  "The Rift Works app for small routines. Build a flow from a few steps - ask, pick, calculate, set a date - and finish it with a calendar event, a reminder or a notification; run it from the app or a home screen widget.",
+    "details":  [
+                    {
+                        "key":  "version",
+                        "label":  "Version",
+                        "value":  "0.1.0"
+                    },
+                    {
+                        "key":  "released",
+                        "label":  "Released",
+                        "value":  "8 November 2026"
+                    },
+                    {
+                        "key":  "file",
+                        "label":  "File",
+                        "value":  "Shorten.apk"
+                    },
+                    {
+                        "key":  "size",
+                        "label":  "Size",
+                        "value":  "27.7 MB"
+                    },
+                    {
+                        "key":  "works_on",
+                        "label":  "Works on",
+                        "value":  "Android 10 or newer, phones and tablets"
+                    },
+                    {
+                        "key":  "publisher",
+                        "label":  "Publisher",
+                        "value":  "Rift Works"
+                    },
+                    {
+                        "key":  "package",
+                        "label":  "Package name",
+                        "value":  "tech.riftworks.shorten"
+                    },
+                    {
+                        "key":  "permissions",
+                        "label":  "Permissions",
+                        "value":  "Calendar (to add your events), notifications, internet access to look for updates, and permission to install its own updates. No camera, location, contacts or files"
+                    },
+                    {
+                        "key":  "account",
+                        "label":  "Account needed",
+                        "value":  "None. Shorten works on the phone, without signing in"
+                    }
+                ],
+    "whats_new":  {
+                      "heading":  "What's new in 0.1.0",
+                      "items":  [
+                                    "Build a flow from small steps: ask a question, pick from a menu, enter a number or a date, calculate, format, branch with If.",
+                                    "Finish a flow with a calendar event, a reminder, a notification or a notice on screen.",
+                                    "Run flows from Home or from a one-tap, 2x2 or 4x2 home screen widget.",
+                                    "Upcoming lists the calendar events Shorten created, so you can open or delete them.",
+                                    "Swipe a flow to delete it (with Undo), edit it or clone it.",
+                                    "Shorten checks for new versions itself and asks before installing; you can turn that off in Settings, About and updates."
+                                ]
+                  },
+    "install":  {
+                    "heading":  "How to install",
+                    "steps":  [
+                                  "Tap Download, then open the file when it finishes.",
+                                  "If your phone asks, allow your browser to \"install unknown apps\". This is asked once.",
+                                  "Tap Install. If you already have Shorten, this updates it and keeps your data."
+                              ]
+                },
+    "verify":  {
+                   "heading":  "Verify your download (optional)",
+                   "items":  [
+                                 {
+                                     "key":  "file_sha256",
+                                     "label":  "File checksum (SHA-256)",
+                                     "value":  "2b1b617d965b01943762c5a2076f9e14fbc888c0e6d4ec029e6a7366ba9ae7fd"
+                                 },
+                                 {
+                                     "key":  "certificate_sha256",
+                                     "label":  "Signing certificate (SHA-256)",
+                                     "value":  "7F:82:7A:B8:A4:DC:CC:2A:62:D1:8B:CA:96:EB:BF:22:64:74:6C:E9:19:E3:C8:1D:99:DA:50:9B:F5:56:D7:CA"
+                                 }
+                             ],
+                   "note":  "The file checksum changes with every release; the signing certificate stays the same."
+               }
+}
