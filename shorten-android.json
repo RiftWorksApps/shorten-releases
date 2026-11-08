@@ -1,7 +1,7 @@
 {
     "schema":  1,
-    "version":  "0.1.0",
-    "released_at":  "2026-11-08T10:28:26Z",
+    "version":  "0.1.1",
+    "released_at":  "2026-11-08T14:40:45Z",
     "download_url":  "https://github.com/RiftWorksApps/shorten-releases/releases/latest/download/Shorten.apk",
     "title":  "Shorten for Android",
     "description":  "The Rift Works app for small routines. Build a flow from a few steps - ask, pick, calculate, set a date - and finish it with a calendar event, a reminder or a notification; run it from the app or a home screen widget.",
@@ -9,7 +9,7 @@
                     {
                         "key":  "version",
                         "label":  "Version",
-                        "value":  "0.1.0"
+                        "value":  "0.1.1"
                     },
                     {
                         "key":  "released",
@@ -53,14 +53,11 @@
                     }
                 ],
     "whats_new":  {
-                      "heading":  "What's new in 0.1.0",
+                      "heading":  "What's new in 0.1.1",
                       "items":  [
-                                    "Build a flow from small steps: ask a question, pick from a menu, enter a number or a date, calculate, format, branch with If.",
-                                    "Finish a flow with a calendar event, a reminder, a notification or a notice on screen.",
-                                    "Run flows from Home or from a one-tap, 2x2 or 4x2 home screen widget.",
-                                    "Upcoming lists the calendar events Shorten created, so you can open or delete them.",
-                                    "Swipe a flow to delete it (with Undo), edit it or clone it.",
-                                    "Shorten checks for new versions itself and asks before installing; you can turn that off in Settings, About and updates."
+                                    "New app icon: a bolt on an indigo tile, with a themed (monochrome) version for Android 13 and later.",
+                                    "Permissions reviewed: Shorten asks only for calendar, notifications, boot restore, internet (update check) and install (self-update). No exact alarms, vibration or background service.",
+                                    "Cleartext (http) traffic is switched off explicitly."
                                 ]
                   },
     "install":  {
@@ -77,7 +74,7 @@
                                  {
                                      "key":  "file_sha256",
                                      "label":  "File checksum (SHA-256)",
-                                     "value":  "2b1b617d965b01943762c5a2076f9e14fbc888c0e6d4ec029e6a7366ba9ae7fd"
+                                     "value":  "c91c62464a396336c9d3302e92acbab1b5daadb7dca3820fe8582acfc9245288"
                                  },
                                  {
                                      "key":  "certificate_sha256",
