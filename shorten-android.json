@@ -1,7 +1,7 @@
 {
     "schema":  1,
-    "version":  "0.1.1",
-    "released_at":  "2026-11-08T14:40:45Z",
+    "version":  "0.1.2",
+    "released_at":  "2026-11-09T13:11:30Z",
     "download_url":  "https://github.com/RiftWorksApps/shorten-releases/releases/latest/download/Shorten.apk",
     "title":  "Shorten for Android",
     "description":  "The Rift Works app for small routines. Build a flow from a few steps - ask, pick, calculate, set a date - and finish it with a calendar event, a reminder or a notification; run it from the app or a home screen widget.",
@@ -9,12 +9,12 @@
                     {
                         "key":  "version",
                         "label":  "Version",
-                        "value":  "0.1.1"
+                        "value":  "0.1.2"
                     },
                     {
                         "key":  "released",
                         "label":  "Released",
-                        "value":  "8 November 2026"
+                        "value":  "9 November 2026"
                     },
                     {
                         "key":  "file",
@@ -53,11 +53,13 @@
                     }
                 ],
     "whats_new":  {
-                      "heading":  "What's new in 0.1.1",
+                      "heading":  "What's new in 0.1.2",
                       "items":  [
-                                    "New app icon: a bolt on an indigo tile, with a themed (monochrome) version for Android 13 and later.",
-                                    "Permissions reviewed: Shorten asks only for calendar, notifications, boot restore, internet (update check) and install (self-update). No exact alarms, vibration or background service.",
-                                    "Cleartext (http) traffic is switched off explicitly."
+                                    "New launcher icon.",
+                                    "Widgets fill their tile: flow colour edge to edge with a large white icon; grid tiles match.",
+                                    "New action Append to File: adds a date-stamped line to a text file you pick once, on the phone or in Google Drive.",
+                                    "New action Send to App: sends text to Samsung Notes, Google Keep or any other app as a new note.",
+                                    "New sample flow \"Note a thought\"."
                                 ]
                   },
     "install":  {
@@ -74,7 +76,7 @@
                                  {
                                      "key":  "file_sha256",
                                      "label":  "File checksum (SHA-256)",
-                                     "value":  "c91c62464a396336c9d3302e92acbab1b5daadb7dca3820fe8582acfc9245288"
+                                     "value":  "a985f94576b5bc59693fd8ae0b4a26c7632369ec1112169308e86236da65ae23"
                                  },
                                  {
                                      "key":  "certificate_sha256",
