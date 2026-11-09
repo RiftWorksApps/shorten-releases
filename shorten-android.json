@@ -1,7 +1,7 @@
 {
     "schema":  1,
-    "version":  "0.1.2",
-    "released_at":  "2026-11-09T13:11:30Z",
+    "version":  "0.1.3",
+    "released_at":  "2026-11-09T23:23:55Z",
     "download_url":  "https://github.com/RiftWorksApps/shorten-releases/releases/latest/download/Shorten.apk",
     "title":  "Shorten for Android",
     "description":  "The Rift Works app for small routines. Build a flow from a few steps - ask, pick, calculate, set a date - and finish it with a calendar event, a reminder or a notification; run it from the app or a home screen widget.",
@@ -9,12 +9,12 @@
                     {
                         "key":  "version",
                         "label":  "Version",
-                        "value":  "0.1.2"
+                        "value":  "0.1.3"
                     },
                     {
                         "key":  "released",
                         "label":  "Released",
-                        "value":  "9 November 2026"
+                        "value":  "10 November 2026"
                     },
                     {
                         "key":  "file",
@@ -53,13 +53,10 @@
                     }
                 ],
     "whats_new":  {
-                      "heading":  "What's new in 0.1.2",
+                      "heading":  "What's new in 0.1.3",
                       "items":  [
-                                    "New launcher icon.",
-                                    "Widgets fill their tile: flow colour edge to edge with a large white icon; grid tiles match.",
-                                    "New action Append to File: adds a date-stamped line to a text file you pick once, on the phone or in Google Drive.",
-                                    "New action Send to App: sends text to Samsung Notes, Google Keep or any other app as a new note.",
-                                    "New sample flow \"Note a thought\"."
+                                    "Send to App can add text to an existing note by its title, in notes apps that allow it. Other apps still get a new note and you are told so.",
+                                    "The app picker shows which notes apps can add to an existing note."
                                 ]
                   },
     "install":  {
@@ -76,7 +73,7 @@
                                  {
                                      "key":  "file_sha256",
                                      "label":  "File checksum (SHA-256)",
-                                     "value":  "a985f94576b5bc59693fd8ae0b4a26c7632369ec1112169308e86236da65ae23"
+                                     "value":  "a4ba2c3f7fb7841514802588cdd48979720ff8b336a3e4910c5c270af4db9fe7"
                                  },
                                  {
                                      "key":  "certificate_sha256",
