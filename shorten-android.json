@@ -1,7 +1,7 @@
 {
     "schema":  1,
-    "version":  "0.1.5",
-    "released_at":  "2026-11-10T00:15:06Z",
+    "version":  "0.1.6",
+    "released_at":  "2026-11-10T01:05:02Z",
     "download_url":  "https://github.com/RiftWorksApps/shorten-releases/releases/latest/download/Shorten.apk",
     "title":  "Shorten for Android",
     "description":  "The Rift Works app for small routines. Build a flow from a few steps - ask, pick, calculate, set a date - and finish it with a calendar event, a reminder or a notification; run it from the app or a home screen widget.",
@@ -9,7 +9,7 @@
                     {
                         "key":  "version",
                         "label":  "Version",
-                        "value":  "0.1.5"
+                        "value":  "0.1.6"
                     },
                     {
                         "key":  "released",
@@ -53,9 +53,10 @@
                     }
                 ],
     "whats_new":  {
-                      "heading":  "What's new in 0.1.5",
+                      "heading":  "What's new in 0.1.6",
                       "items":  [
-                                    "A Menu can give each choice its own steps: turn on \"Separate actions for each choice\" and build under every choice."
+                                    "Drag the grip on a card to move it up or down, also inside a Menu choice.",
+                                    "Long-press a card to select it, then Copy it and Paste below another card, even in a different flow."
                                 ]
                   },
     "install":  {
@@ -72,7 +73,7 @@
                                  {
                                      "key":  "file_sha256",
                                      "label":  "File checksum (SHA-256)",
-                                     "value":  "71cb60a280d61d07cc7c0ef76e677c97557278b2dec8275814691ec8d58cf509"
+                                     "value":  "25ab603760b4cfb24013c6afc8b9379b0e2faa26084ae0730af882597aba2a12"
                                  },
                                  {
                                      "key":  "certificate_sha256",
