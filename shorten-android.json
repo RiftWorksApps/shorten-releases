@@ -1,7 +1,7 @@
 {
     "schema":  1,
-    "version":  "0.1.8",
-    "released_at":  "2026-11-11T08:24:54Z",
+    "version":  "0.1.9",
+    "released_at":  "2026-11-11T09:35:20Z",
     "download_url":  "https://github.com/RiftWorksApps/shorten-releases/releases/latest/download/Shorten.apk",
     "title":  "Shorten for Android",
     "description":  "The Rift Works app for small routines. Build a flow from a few steps - ask, pick, calculate, set a date - and finish it with a calendar event, a reminder or a notification; run it from the app or a home screen widget.",
@@ -9,7 +9,7 @@
                     {
                         "key":  "version",
                         "label":  "Version",
-                        "value":  "0.1.8"
+                        "value":  "0.1.9"
                     },
                     {
                         "key":  "released",
@@ -53,10 +53,10 @@
                     }
                 ],
     "whats_new":  {
-                      "heading":  "What's new in 0.1.8",
+                      "heading":  "What's new in 0.1.9",
                       "items":  [
-                                    "Append to File can now add to the end, add at the start or replace the file, and it no longer loses lines you typed by hand.",
-                                    "Question screens show the question once, without the extra type label."
+                                    "New actions Read File and Clear File: copy everything in a record file in one tap, or empty it at month end after a confirmation.",
+                                    "Append to File and Clear File now refuse files in Google Drive, which can lose lines; use a file on the phone."
                                 ]
                   },
     "install":  {
@@ -73,7 +73,7 @@
                                  {
                                      "key":  "file_sha256",
                                      "label":  "File checksum (SHA-256)",
-                                     "value":  "ba567e61e4ef09252ddf0c25f3f51a9028f15a4dbff71ad6354394ff71edab7f"
+                                     "value":  "ceb3666f8290edf47e97d1cab2d287742a58db53fe926e25bfd838ccd93259c4"
                                  },
                                  {
                                      "key":  "certificate_sha256",
