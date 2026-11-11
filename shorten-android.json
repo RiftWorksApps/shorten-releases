@@ -1,7 +1,7 @@
 {
     "schema":  1,
-    "version":  "0.1.7",
-    "released_at":  "2026-11-10T01:50:23Z",
+    "version":  "0.1.8",
+    "released_at":  "2026-11-11T08:24:54Z",
     "download_url":  "https://github.com/RiftWorksApps/shorten-releases/releases/latest/download/Shorten.apk",
     "title":  "Shorten for Android",
     "description":  "The Rift Works app for small routines. Build a flow from a few steps - ask, pick, calculate, set a date - and finish it with a calendar event, a reminder or a notification; run it from the app or a home screen widget.",
@@ -9,12 +9,12 @@
                     {
                         "key":  "version",
                         "label":  "Version",
-                        "value":  "0.1.7"
+                        "value":  "0.1.8"
                     },
                     {
                         "key":  "released",
                         "label":  "Released",
-                        "value":  "10 November 2026"
+                        "value":  "11 November 2026"
                     },
                     {
                         "key":  "file",
@@ -53,10 +53,10 @@
                     }
                 ],
     "whats_new":  {
-                      "heading":  "What's new in 0.1.7",
+                      "heading":  "What's new in 0.1.8",
                       "items":  [
-                                    "The date picker now lets you pick past dates and go back any number of months.",
-                                    "Send to App now simply shares the text with the app you choose; the notes-app shortcuts were removed."
+                                    "Append to File can now add to the end, add at the start or replace the file, and it no longer loses lines you typed by hand.",
+                                    "Question screens show the question once, without the extra type label."
                                 ]
                   },
     "install":  {
@@ -73,7 +73,7 @@
                                  {
                                      "key":  "file_sha256",
                                      "label":  "File checksum (SHA-256)",
-                                     "value":  "124a2e4c961008bd8b15f6bb15b0d28eff303cab105f951c1bd43824e90ca8d9"
+                                     "value":  "ba567e61e4ef09252ddf0c25f3f51a9028f15a4dbff71ad6354394ff71edab7f"
                                  },
                                  {
                                      "key":  "certificate_sha256",
